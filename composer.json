@@ -29,6 +29,11 @@
 		    "name": "Chris Rasmussen"
 	    }
     ],
+    "support": {
+	    "issues": "https://github.com/kawaiidesune/gamification-server/issues",
+	    "wiki": "https://github.com/kawaiidesune/gamification-server/wiki",
+	    "source": "https://github.com/kawaiidesune/gamification-server"
+    },
     "require": {
         "php": "^5.3.3 || ^7.0",
         "cakephp/cakephp": "3.2.*"
