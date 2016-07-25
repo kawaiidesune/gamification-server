@@ -1,5 +1,5 @@
 # Gamification Server CakePHP Plugin
-GamificationServer is a plugin based on the NGA Gamification Server.
+GamificationServer is a plugin based on the NGA Gamification Server, originally written in Python/Django.
 
 ## Original Readme.md
 Gamification-server provides a framework for providing awards/points to users or teams and can be operated either standalone or integrated with other web-based applications. Based on the notion of badges used within other gamification systems, gamification-server also provides a customizable web interface for displaying badges as well as a configurable rules engine to translate actions performed by users into awards. User awards can be exported into an Open Badges Backpack, allowing users to present expertise gained within other social frameworks or applications. The gamification-server is implemented as a django python web service and associated web application.

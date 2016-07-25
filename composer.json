@@ -1,0 +1,36 @@
+{
+    "name": "kawaiidesune/gamification-server",
+    "description": "GamificationServer is a plugin based on the NGA Gamification Server, originally written in Python/Django.",
+    "version": "0.1-dev",
+    "homepage": "http://veroniquebellamy.fr/en/projects/gamification-server/",
+    "license": "MIT",
+    "authors": [
+	    {
+		    "name": "Véronique Bellamy",
+		    "email": "v@vero.moe",
+		    "homepage": "http://veroniquebellamy.fr",
+		    "role": "PHP Developer"
+	    },
+	    {
+		    "name": "Stephen Jones",
+		    "email": "srjones@mitre.org",
+		    "role": "Django Developer"
+	    },
+	    {
+		    "name": "Joe Meilinger",
+		    "email": "joemeilinger@gmail.com",
+		    "homepage": "http://joemeilinger.com/"
+	    },
+	    {
+		    "name": "Jay Crossler",
+		    "homepage": "http://wecreategames.com/blog"
+	    },
+	    {
+		    "name": "Chris Rasmussen"
+	    }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "cakephp/cakephp": "3.2.*"
+    }
+}
